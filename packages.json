@@ -53,7 +53,7 @@
             {
               "packager": "digistump",
               "name": "micronucleus",
-              "version": "2.0a4"
+              "version": "2.6"
             }
           ]
         },
@@ -78,7 +78,7 @@
             {
               "packager": "digistump",
               "name": "micronucleus",
-              "version": "2.0a4"
+              "version": "2.6"
             },
             {
               "packager": "digistump",
@@ -415,14 +415,14 @@
       "tools": [
         {
           "name": "micronucleus",
-          "version": "2.0a4",
+          "version": "2.6",
           "systems": [
             {
               "host": "x86_64-linux-gnu",
-              "archiveFileName": "micronucleus-2.0a4-linux64.tar.gz",
-              "url": "https://github.com/minishd/digistump-arduino/releases/download/asdf/fuck.tar.xz",
-              "checksum": "SHA-256:258c49f2e61cb37f2ae0e489365682cdb6ed25be4b9cd47c4b316c025732d71c",
-              "size": "15176"
+              "archiveFileName": "micronucleus-2.6-linux64.tar.gz",
+              "url": "https://github.com/minishd/digistump-arduino/releases/download/asdfg/micronucleus.tar.gz",
+              "checksum": "SHA-256:b492a72a3fe47afb8d06a95b4b7754a53c19a2ea09939a9e1c9566c087def479",
+              "size": "16132"
             }
           ]
         },
